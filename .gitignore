@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+
+# Datasets
+Datasets/
+
+# Model / graph checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# Local / generated files
+uvicorn
+
+# OS
+.DS_Store
+Thumbs.db
